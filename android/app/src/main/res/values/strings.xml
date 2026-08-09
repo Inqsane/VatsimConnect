@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VatsimConnect</string>
+    <string name="pair_hint">Enter the one-time code from the Windows app</string>
+    <string name="pair_button">Connect</string>
+    <string name="disconnect">Unpair</string>
+    <string name="waiting">Waiting for ATC messages</string>
+    <string name="code_label">Code</string>
+    <string name="status_idle">Not connected</string>
+</resources>

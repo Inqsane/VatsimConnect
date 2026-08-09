@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF14171C</color>
+    <color name="surface">#FF1C2128</color>
+    <color name="line">#FF2A3038</color>
+    <color name="text">#FFE8EAED</color>
+    <color name="muted">#FF8B919A</color>
+    <color name="amber">#FFC28B2A</color>
+    <color name="amber_press">#FFD4A017</color>
+    <color name="field">#FF222831</color>
+</resources>
