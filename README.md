@@ -8,8 +8,6 @@ Do not edit/publish any files without my (Inqsane's) permission. All files fall 
 If you want to edit any of the files or request anything please contact us unter david@virtualpilot.online or "inqsane" on discord.
 Alternatively, contact us via the contact form on our website which will be available at some point. (WIP)
 
-Cursor (AI) will automatically push any updates I do on my PC into the "Releases section"
-
 ## What it does
 
 - Windows app bridges vPilot (plugin + UI fallback) to your phone over the local network
