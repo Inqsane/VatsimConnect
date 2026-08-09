@@ -13,7 +13,7 @@ Alternatively, contact us via the contact form on our website which will be avai
 - Windows app bridges vPilot (plugin + UI fallback) to your phone over the local network
 - Live callsign / online status on the phone and notification
 - Push-style ATC / radio / SELCAL alerts
-- One-click **Setup EXE** — standalone installer (no other files needed)
+- One-click **Setup EXE** - standalone installer (no other files needed)
 
 ## Homepage
 
@@ -27,10 +27,10 @@ https://virtualpilot.online
 
 Outputs in `dist\` (and Desktop):
 
-- **`VatsimConnect-Setup.exe`** — one-click installer (Desktop / Start Menu shortcut). Self-contained — you only need this file.
-- `VatsimConnect.exe` — raw Windows bridge (embedded inside the Setup)
-- `VatsimConnect.apk` / `.aab` — Android app
-- `VatsimConnect.dll` — vPilot plugin
+- **`VatsimConnect-Setup.exe`** - one-click installer (Desktop / Start Menu shortcut).
+- `VatsimConnect.exe` - raw Windows bridge (embedded inside the Setup)
+- `VatsimConnect.apk` / `.aab` - Android app
+- `VatsimConnect.dll` - vPilot plugin
 
 ### Install (Windows)
 
