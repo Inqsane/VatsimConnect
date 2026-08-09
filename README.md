@@ -39,7 +39,7 @@ Outputs in `dist\` (and Desktop):
 3. Restart **vPilot** once so the plugin loads
 4. Install the Android APK on your phone and pair with the one-time code
 
-Prefer to inspect source before running anything? Use **https://github.com/Inqsane/VatsimConnect/**
+Prefer to inspect source before running anything? Use **https://github.com/Inqsane/VatsimConnect/** and download the source code/look at it in Github Web.
 
 Make sure your APK / Play Store build matches your Windows build please don’t mix a website EXE with a random GitHub APK from another version.
 
